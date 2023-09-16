@@ -1,13 +1,13 @@
-# cs178-project
+# CIFAR-10 Dataset Analysis
 
 ### Setup
-- Install required dependencies
-    - pytorch
-    - torchvision
-    - Sklearn
+- Install the required Python dependencies:
+    - PyTorch
+    - TorchVision
+    - scikit-learn
     - requests
-    - numpy
-    - matplotlib
+    - NumPy
+    - Matplotlib
 - Run [data_downloader.py](./data_downloader.py) to download dataset from internet
 
 
