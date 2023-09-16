@@ -14,3 +14,8 @@
 ### Load data
 - Load data by calling the data loaders inside of [data_loader.py](./data_loader.py)
 
+### Used classifers:
+- kNN
+- Logistic Classifier
+- FF Neural Network
+- Convoluted Neural Network
